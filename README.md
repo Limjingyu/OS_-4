@@ -7,7 +7,7 @@
 * 기간 : 2016.05 ~ 2016.06
 * OS : Linux Ubuntu
 * Language : C
-* Tools : Visual Studio 2013
+* Tools : Oracle VM VirtualBox
 
 프로그램 진행순서도 
 -------------
